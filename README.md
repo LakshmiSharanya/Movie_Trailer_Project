@@ -16,6 +16,12 @@ Movie Trailer Website is designed for users to see their favorite movies and wat
 * Run Module F5
 * Then Movie Trailer Website opens
 
+# Authors
+
+* **Lakshmi Sharanya**
+
+See also the list of [contributors](https://github.com/LakshmiSharanya/Movie_Trailer_Project/commit/dcdb9b65b7c684715dfb53d1393e473a6281f04d) who participated in this project.
+
 # Contributing
 Please read [CONTRIBUTING.md](https://github.com/LakshmiSharanya/Movie_Trailer_Project/commit/dcdb9b65b7c684715dfb53d1393e473a6281f04d) for details on our code of conduct, and the process for submitting pull requests to us.
 
