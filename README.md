@@ -1,5 +1,5 @@
 # Movie_Trailer_Project
-Movie Trailer Website where users can see their favorite movies and watch the trailers. 
+Movie Trailer Website is designed for users to see their favorite movies and watch the trailers. 
 
 # Prerequisities
 * Python 2.x
@@ -7,6 +7,7 @@ Movie Trailer Website where users can see their favorite movies and watch the tr
 
 # Installing
 Get started by downloading Python here https://www.python.org/downloads/
+Step by Step Guide to install Python on Windows http://www.howtogeek.com/197947/how-to-install-python-on-windows/
 
 # Contributing
 Please read [CONTRIBUTING.md](https://github.com/LakshmiSharanya/Movie_Trailer_Project/commit/dcdb9b65b7c684715dfb53d1393e473a6281f04d) for details on our code of conduct, and the process for submitting pull requests to us.
